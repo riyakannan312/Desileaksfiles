@@ -13,13 +13,13 @@ def is_enabled(value, default):
         return default
       
 # Bot Information
-API_ID = int(environ.get("API_ID", "19067052"))
-API_HASH = environ.get("API_HASH", "f2205657fd3b0b40e9a0b11aac366656")
-BOT_TOKEN = environ.get("BOT_TOKEN", "7891431471:AAGpcqVR9KWFeUWWVMAhj4jmGmkmFB-Dtbg")
+API_ID = int(environ.get("API_ID", "25868710"))
+API_HASH = environ.get("API_HASH", "c4a9989644fe0914aa59a5f96d1c15c4")
+BOT_TOKEN = environ.get("BOT_TOKEN", "7389423082:AAEGTio88lVaJqxsZfSjQHAx5drXB5moxDE")
 
 PICS = (environ.get('PICS', 'https://desileaks.in/wp-content/uploads/2024/08/5d0ac3e9-73d0-485f-901a-871bf6ea09cb.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1871899094 6866849202 1032182348').split()]
-BOT_USERNAME = environ.get("BOT_USERNAME", "desileaksfilesbot") # without @
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6866849202 7693824787').split()]
+BOT_USERNAME = environ.get("BOT_USERNAME", "dl_files_bot") # without @
 PORT = environ.get("PORT", "8080")
 
 # Clone Info :-
