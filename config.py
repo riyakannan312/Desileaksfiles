@@ -41,7 +41,7 @@ AUTO_DELETE = int(environ.get("AUTO_DELETE", "30")) # Time in Minutes
 AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "1800")) # Time in Seconds
 
 # Channel Information
-LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002234937165"))
+LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002090853196"))
 
 AUTH_CHANNEL = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('AUTH_CHANNEL', '-1002014891006').split()] # give channel id with seperate space. Ex : ('-10073828 -102782829 -1007282828')
 
