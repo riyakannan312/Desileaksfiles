@@ -5,7 +5,7 @@ class script(object):
 
 ⚙️ sɪᴢᴇ : {file_size}
 
-Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/desileaks_of) Tired of Page Ads. Try [Premium](https://t.me/desileaksvip) for without Ads.</b>""" 
+ᴊᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/desileaks_of) ᴛɪʀᴇᴅ ᴏꜰ ᴘᴀɢᴇ ᴀᴅꜱ. ᴛʀʏ [ᴘʀᴇᴍɪᴜᴍ](https://t.me/desileaksvip) 🔥ꜰᴏʀ ᴡɪᴛʜᴏᴜᴛ ᴀᴅꜱ.</b>""" 
 
     SHORTENER_API_MESSAGE = """<b>Tᴏ ᴀᴅᴅ ᴏʀ ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ Sʜᴏʀᴛɴᴇʀ Wᴇʙsɪᴛᴇ API, /api (ᴀᴘɪ)
             
