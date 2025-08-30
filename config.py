@@ -19,7 +19,7 @@ BOT_TOKEN = environ.get("BOT_TOKEN", "8376263314:AAGRPbIdJFVk86UgEa8m9afWna7EZ1g
 
 PICS = (environ.get('PICS', 'https://desileaks.in/wp-content/uploads/2024/08/5d0ac3e9-73d0-485f-901a-871bf6ea09cb.jpg')).split() # Bot Start Picture
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6866849202 8175561008').split()]
-BOT_USERNAME = environ.get("BOT_USERNAME", "dl_files_bot") # without @
+BOT_USERNAME = environ.get("BOT_USERNAME", "dl_lnkz_bot") # without @
 PORT = environ.get("PORT", "8080")
 
 # Clone Info :-
