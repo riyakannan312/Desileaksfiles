@@ -64,7 +64,7 @@ First Send /clone command then follow below steps.
 🔻 /link - ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ
 
 🔻 /batch - sᴇɴᴅ ғɪʀsᴛ ʟɪɴᴋ ᴏғ ғɪʟᴇ sᴛᴏʀᴇ ᴄʜᴀɴɴᴇʟ ᴘᴏsᴛ ᴛʜᴇɴ ʟᴀsᴛ ᴘᴏsᴛ ʟɪɴᴋ ᴀɴᴅ ᴍᴀᴋᴇ sᴜʀᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ғɪʟᴇ sᴛᴏʀᴇ ᴄʜᴀɴɴᴇʟ.
-ᴇx - /batch https://t.me/dl_post/1 https://t.me/dl_post/3
+ᴇx - /batch https://t.me/dl_lnkz_bot/1 https://t.me/dl_lnkz_bot/3
 
 🔻 /clone - ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ɪᴅᴇɴᴛɪᴄᴀʟ ᴄʟᴏɴᴇ ʙᴏᴛ
 
@@ -103,4 +103,5 @@ Nᴀᴍᴇ - {}</b>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+
 
