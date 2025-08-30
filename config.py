@@ -13,8 +13,8 @@ def is_enabled(value, default):
         return default
       
 # Bot Information
-API_ID = int(environ.get("API_ID", "25868710"))
-API_HASH = environ.get("API_HASH", "c4a9989644fe0914aa59a5f96d1c15c4")
+API_ID = int(environ.get("API_ID", "28861782"))
+API_HASH = environ.get("API_HASH", "dede70a40ae19d349e980978fc7a742a")
 BOT_TOKEN = environ.get("BOT_TOKEN", "8376263314:AAGRPbIdJFVk86UgEa8m9afWna7EZ1gaIIs")
 
 PICS = (environ.get('PICS', 'https://desileaks.in/wp-content/uploads/2024/08/5d0ac3e9-73d0-485f-901a-871bf6ea09cb.jpg')).split() # Bot Start Picture
